@@ -1,2 +1,3 @@
-# godatastructures
-Implementations of some common data structures in Go
+# Go Data Structures
+
+Just trying to hash out some implementations of commonly used data structures in Go.
